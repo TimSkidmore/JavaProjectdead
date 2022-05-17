@@ -1,0 +1,3 @@
+module sayHello {
+	exports sayHello;
+}
